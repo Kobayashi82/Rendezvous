@@ -14,7 +14,7 @@
   <img src="/Rendezvous.png">
 </div>
 
-# Launch Autopilot
+# Rendezvous
 
 [README in English](README.md)
 
