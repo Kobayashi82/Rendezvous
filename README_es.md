@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="/W_Rendezvous.png">
+  <img src="/images/W_Rendezvous.jpg">
 </div>
 
 # Rendezvous
